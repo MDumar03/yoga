@@ -1,0 +1,84 @@
+*{
+margin: 0px;
+padding: 0px;    
+}
+body{
+background-color: rgb(255, 255, 255);
+}
+
+ .main-container{
+      max-width: 95%;
+      margin: 0 auto;
+    }   
+ .container{
+        max-width: 90%;
+        margin: 0 auto;
+    }
+ 
+  .intro{
+ text-align: center;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ font-weight: lighter;
+ padding: 35px;
+ background-color: rgb(155, 169, 165);
+ color: rgb(255, 255, 255) ;
+  }  
+
+ .booking{
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: ;
+  padding: 35px;
+  font-weight:lighter;
+
+ } 
+ .booking a{
+  text-decoration: none;
+  color: black;
+   }
+
+ .booking button{
+  padding:7px;
+  color: rgb(255, 255, 255);
+  border:0px solid rgb(155, 169, 165);
+  background-color:rgb(165, 186, 181) ;
+  font-family: Arial, Helvetica, sans-serif;
+ }
+  .booking button a{
+    color:rgb(255, 255, 255) ;
+    padding-right:37px;
+    padding-left:37px ;
+  }
+
+
+  .booking button:hover{
+   background-color: rgb(123, 135, 132);
+  transition: 0.5s;
+  }
+
+.event{
+padding:50px 40px;
+background-color: rgb(218, 221, 224);
+text-align:center;
+color: black;
+font-family: Arial, Helvetica, sans-serif;
+
+}  
+.event h2{
+  font-size:70;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer{
+  text-align: center;
+  font-family:Arial, Helvetica, sans-serif;
+  padding: 30px;
+  background-color: rgb(255, 255, 255);
+  color: black;
+}
+.footer h6 a{
+text-decoration: none;
+color: black;
+
+
+}

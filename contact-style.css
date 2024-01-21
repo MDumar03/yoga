@@ -1,0 +1,44 @@
+*{
+margin: 0px;
+padding: 0px;    
+}
+body{
+background-color: rgb(255, 255, 255);    
+}
+
+.footer{
+ text-align: center;
+ font-family:Arial, Helvetica, sans-serif;
+ padding: 30px;
+ background-color: rgb(255, 255, 255);
+ color: black;
+  }
+.footer h6 a{
+  text-decoration: none;
+  color: black;
+  
+  }
+.main-container{
+ max-width: 80%;
+ margin: 0px auto;
+ padding: 20px;
+ }
+
+.container{
+ padding: 20px;
+ }
+
+ .lea{
+    text-align: center;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 12px;
+ }
+
+ .part-1{
+    padding:;
+ }
+
+ .part-2{
+padding:;
+ }
